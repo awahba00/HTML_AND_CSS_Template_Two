@@ -51,11 +51,13 @@ ul{
 
 .main-heading{
   text-align: center;
+  padding-top: 80px;
+  /* padding-bottom: 80px; */
 }
 .main-heading h2{
   font-weight: normal;
+  margin: 0 0 80px 0;
   text-transform: uppercase;
-  margin: 80px 0;
   font-size: 40px;
   position: relative;
 }
