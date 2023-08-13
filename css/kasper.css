@@ -223,6 +223,9 @@ nav .form i{
   display: flex;
   justify-content: flex-end;
 }
+.landing .content{
+  width: 80%;
+}
 @media (max-width: 767px) {
   .landing .text{
     width: 100%;
